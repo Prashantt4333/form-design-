@@ -1,0 +1,44 @@
+body{
+    background-image: -webkit-linear-gradient(-30deg, #1E0950, #F6345F);
+    height:645px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+div#box{
+    width: 100%;
+    height:450px;
+    background-color:#44C2E5;
+    margin:100px auto;
+    padding-top: 5px;
+    
+}
+form.myLoginForm{
+    width: 40%;
+    height: 300px;
+    background-color:#ffff;
+    margin:50px auto;
+    padding: 10px;                
+}
+form.myLoginForm input{
+    width: 90%;
+    height: 35px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border:2px solid #d9d9d9;
+    padding-left:10px ;
+}
+.login{
+    background-color:#44C2E5; 
+    font-size: 1em;
+    width: 100%;
+    margin-left: 10px;
+    border: none !important;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+ul{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
